@@ -1,3 +1,5 @@
+![Capa do Projeto](./capa-projeto.png)
+
 # 📝 To-Do List com JavaScript
 
 Projeto simples de uma lista de tarefas (To-Do List) feito com JavaScript puro.
